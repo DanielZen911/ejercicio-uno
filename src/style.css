@@ -101,3 +101,26 @@
     font-size: 2.5rem;
     font-weight: bold;
 }
+
+.cards-section {
+    background-color: white;
+    border-radius: 8px;
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: white;
+    width: 30%;
+    height: 90%;
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    border: 1px solid #334155;
+}
