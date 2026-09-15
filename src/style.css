@@ -43,3 +43,24 @@
     box-sizing: border-box;
     border-radius: 6px;
 }
+
+.sidebar-logo-text {
+    background-color: white
+    ;
+    flex: 0.7;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.sidebar-middle-box {
+    flex: 1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
