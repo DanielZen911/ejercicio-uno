@@ -27,3 +27,19 @@
     box-sizing: border-box;
     border-radius: 8px;
 }
+
+.sidebar-top-box {
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    box-sizing: border-box;
+}
+
+.sidebar-logo-brand {
+    background-color: white
+    ;
+    flex: 0.3;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
